@@ -297,7 +297,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: Thank you for playing this short demo of ChatGPT in Unity. Although this
-    demo was primative, there is so much more that can be done with AI based NPCs
+    demo was primitive, there is so much more that can be done with AI based NPCs
     in video games!
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c439fddead79e644eb3781db0014e774, type: 2}
