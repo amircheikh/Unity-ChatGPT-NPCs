@@ -1,6 +1,8 @@
 # Unity-ChatGPT-NPCs
 This project showcases OpenAI's gpt-3.5-turbo in Unity to create custom characters in video games.\
 The API calls are made directly in game by using OkGoDoIt/OpenAI-API-dotnet, a C# OpenAI sdk.
+## Showcase video
+A video I made showcasing this project: https://www.youtube.com/watch?v=mihnhEf5PVQ
 ## BunzelTown
 BunzelTown is a demo of this project included in this project.\
 The goal of the demo is to find the password to the Castle of Bunzel by asking the NPCs around the town.\
